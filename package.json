@@ -1,0 +1,21 @@
+{
+  "name": "restify-tutorial",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^6.0.0",
+    "itoolkit": "^0.1.2",
+    "jsonwebtoken": "^8.3.0",
+    "restify": "^7.2.0",
+    "restify-clients": "^2.5.0",
+    "restify-errors": "^6.0.0",
+    "restify-jwt-community": "^1.0.7",
+    "csv-parser": "*"
+  }
+}
